@@ -16,6 +16,12 @@ Call the getLocationDetails() and it will return a json arry with details on cur
 ```
 $ob->getLocationDetails();
 ```
+You could modify the code and also pass the ip address as argument to the function.
+
+You could also get user IP by calling getUserIP().
+```
+$ob->getUserIP();
+```
 Feel free to report any issues related to this.
 
 ## Authors
