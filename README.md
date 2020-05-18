@@ -1,5 +1,6 @@
 # Location-API
 [![Vishnu Sivadas](https://www.vishnusivadas.com/github/codequality.svg?style=flat)](https://github.com/VishnuSivadasVS)
+
 An API in PHP to get the location and some other details related to the location.
 
 ## How to use?
